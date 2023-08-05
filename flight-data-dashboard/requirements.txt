@@ -1,4 +1,3 @@
 pandas
 dash
 plotly
-jupyter_dash

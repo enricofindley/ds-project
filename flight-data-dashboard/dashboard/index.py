@@ -4,7 +4,6 @@ import dash
 from dash import dcc
 from dash import html
 from dash.dependencies import Input, Output, State
-from jupyter_dash import JupyterDash
 import plotly.graph_objects as go
 import plotly.express as px
 from dash import no_update
